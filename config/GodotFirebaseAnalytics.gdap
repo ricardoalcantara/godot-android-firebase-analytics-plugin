@@ -1,0 +1,8 @@
+[config]
+
+name="GodotFirebaseAnalytics"
+binary_type="local"
+binary="GodotFirebaseAnalytics.release.aar"
+
+[dependencies]
+remote=["com.google.firebase:firebase-analytics:17.4.4"]
